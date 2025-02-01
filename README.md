@@ -9,10 +9,10 @@ This is a **Task Manager App** built using the **MERN stack** (MongoDB, Express.
 - 📌 **Create, Update, and Delete Tasks**
 - 🔍 **Filter Tasks** (Pending & Completed)
 - 🔒 **Secure API with JWT**
-- 🎨 **Responsive UI** built with React
+
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Vite, Tailwind CSS (optional)
+- **Frontend:** React, Vite, Tailwind CSS 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
