@@ -19,5 +19,5 @@ This is a **Task Manager App** built using the **MERN stack** (MongoDB, Express.
 
 
 
-### 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/task-manager-app.git
+###  Clone the Repository
+git clone https://github.com/Aman041902/Task-Manager.git
